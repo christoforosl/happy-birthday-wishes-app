@@ -1,0 +1,8 @@
+{
+  "eortazon": { "name": "Nicoletta", "date": "2021-12-29T00:00:00.000Z" },
+  "wishes": [
+    { "id": 1, "name": "Christoforos", "wish": "Happy Birtday" },
+    { "id": 2, "name": "Zina", "wish": "Happy Birtday Nicol" },
+    { "id": 2, "name": "Evelina", "wish": "Happy Birtday Nicol" }
+  ]
+}
